@@ -1,0 +1,41 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+header{
+    background-color: lightgray;
+    border-style:solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color:darkgray;
+}
+
+#tp {
+    text-decoration: none;
+    color: black;
+    border-style: solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right:30px;
+    border-color: darkgray;
+}
+
+h1 {
+    border-bottom-style:solid;
+    border-color:darkgray;
+
+}
+
+#currentPage {
+    text-decoration: none;
+    color: darkgray;
+    border-style: solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right:30px;
+    border-color: black;
+    background-color: black;
+}
