@@ -39,3 +39,11 @@ h1 {
     border-color: black;
     background-color: black;
 }
+
+body { background-color: black; color: white; font-family: Arial, sans-serif; } 
+h1 { color: white; }
+ p { color: white; } 
+ iframe { display: block; margin: 20px auto; border: none; }
+ header h1{
+    color: black;
+ }

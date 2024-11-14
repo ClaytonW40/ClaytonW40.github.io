@@ -39,3 +39,10 @@ h1 {
     border-color: black;
     background-color: black;
 }
+
+body{
+    background-color: black;
+}
+
+.profile-container { color: white; border: 2px solid gray; border-radius: 10px; padding: 20px; width: 300px; margin: 0 auto; text-align: center; } 
+.profile-image { border-radius: 50%; width: 150px; height: 150px; }

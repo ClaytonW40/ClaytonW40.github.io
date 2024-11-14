@@ -39,3 +39,7 @@ h1 {
     border-color: black;
     background-color: black;
 }
+
+.container { border: 2px solid gray; border-radius: 10px; padding: 20px; margin: 20px; background-color: #f0f0f0; } 
+.child { border: 2px solid gray; border-radius: 10px; padding: 20px; margin: 10px 0; background-color: #ffffff; }
+body{ background-color: black;}

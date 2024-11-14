@@ -25,6 +25,7 @@ header{
 h1 {
     border-bottom-style:solid;
     border-color:darkgray;
+    color: black;
 
 }
 
@@ -38,4 +39,45 @@ h1 {
     padding-right:30px;
     border-color: black;
     background-color: black;
+}
+
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+fieldset {
+    border: 2px solid white;
+    padding: 20px;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+legend {
+    color: white;
+    font-size: 1.5em;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    color: white;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+}
+
+p {
+    color: white;
+    font-style: italic;
 }
